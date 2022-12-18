@@ -148,6 +148,11 @@ author_profile: true
 <h2>Journal articles</h2>
 <h5>(Note: Authorship is in order of contribution)</h5>
 
+<b>3. Secure Contact Tracing Platform from Simplest Private Set Intersection Cardinality;  </b> <br>
+&nbsp; &nbsp;  <a href="http://" style="color:blue; text-decoration: none">Jiahui Gao</a>, <a href="https://chetan015.github.io/" style="color:blue; text-decoration: none">Chetan Surana</a>, <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a><br>
+&nbsp; &nbsp;  <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12070" target="_blank" style="text-decoration: none"><b>IET Information Security</b> 2022</a>  | <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12070" target="_blank"> pdf</a> <br>
+
+
 <b>2*. BeeTrace: A Unified Platform for Secure Contact Tracing that Breaks Data Silos;  </b> <br>
 &nbsp; &nbsp;  <a href="http://" style="color:blue; text-decoration: none">Xiaoyuan Liu</a>, <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a>, <a href="https://kornaropoulos.webflow.io/" style="color:blue; text-decoration: none">Evgenios M. Kornaropoulos</a>, <a href="https://people.eecs.berkeley.edu/~dawnsong/" style="color:blue; text-decoration: none">Dawn Song</a> <br>
 &nbsp; &nbsp;  <a href="https://tc.computer.org/tcde/data-engineering-bulletin/" target="_blank" style="text-decoration: none"><b>IEEE Data Engineering Bulletin</b> 2020</a>  | <a href="http://sites.computer.org/debull/A20june/p108.pdf" target="_blank"> pdf</a> <br>

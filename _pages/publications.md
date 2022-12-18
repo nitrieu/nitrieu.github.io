@@ -17,28 +17,25 @@ author_profile: true
 								
  <b>19. Secure Contact Tracing Platform from Simplest Private Set Intersection Cardinality  </b> <br>
 &nbsp; &nbsp;  <a href="http://" style="color:blue; text-decoration: none">Jiahui Gao</a>, <a href="https://chetan015.github.io/" style="color:blue; text-decoration: none">Chetan Surana</a>, <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a><br>
-&nbsp; &nbsp;  <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12070" target="_blank" style="text-decoration: none"><b>IET Information Security</b> 2022</a>  | <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12070" target="_blank"> pdf</a> <br>
-
-
- <b>18. Private Join and Compute from PIR with Default </b> <br>
-	&nbsp; &nbsp; <a href="https://tlepoint.github.io/" style="color:blue; text-decoration: none"> Tancrède Lepoint</a>, <a href="https://dblp.uni-trier.de/pers/p/Patel:Sarvar.html" style="color:blue; text-decoration: none"> Sarvar Patel</a>, <a href="https://ai.google/research/people/106426/" style="color:blue; text-decoration: none"> Karn Seth</a>, <a href="https://marianapr.github.io/" style="color:blue; text-decoration: none"> Mariana Raykova</a>,  <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a> <br>		
- &nbsp; &nbsp; <a href="https://asiacrypt.iacr.org/2021/" target="_blank" style="text-decoration: none"><b>Asiacrypt</b> 2021</a> | 
-                                    <a href="https://eprint.iacr.org/2020/1011" target="_blank"> pdf</a> 
-									
+&nbsp; &nbsp;  <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12070" target="_blank" style="text-decoration: none"><b>IET Information Security</b> 2022</a>  | <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12070" target="_blank"> pdf</a> <br>									
 	
-   <b> 17. Simple, Fast Malicious Multiparty Private Set Intersection </b> <br>
+   <b> 18. Simple, Fast Malicious Multiparty Private Set Intersection </b> <br>
    &nbsp; &nbsp; <a href="https://github.io/" style="color:blue; text-decoration: none">Ofri Nevo</a>, 
                                 <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a>,
 								 <a href="https://www.yanai.io/" style="color:blue; text-decoration: none"> Avishay Yanai</a>   
     &nbsp; &nbsp;          <a href="https://www.sigsac.org/ccs/CCS2021/" target="_blank" style="text-decoration: none"><b>CCS</b> 2021</a>
-                                 |<a href="https://eprint.iacr.org/2021/1221" target="_blank"> pdf</a> | <a href="https://github.com/asu-crypto/mPSI" target="_blank"> code </a>
-                                 <br>
+                                 |<a href="https://eprint.iacr.org/2021/1221" target="_blank"> pdf</a> | <a href="https://github.com/asu-crypto/mPSI" target="_blank"> code </a>  <br>
 								    
-   <b> 16. Compact and Malicious Private Set Intersection for Small Sets </b> <br>
+   <b> 17. Compact and Malicious Private Set Intersection for Small Sets </b> <br>
    &nbsp; &nbsp;  <a href="http://web.engr.oregonstate.edu/~rosulekm/" style="color:blue; text-decoration: none"> Mike Rosulek</a>, 
                                 <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a><br>
     &nbsp; &nbsp;          <a href="https://www.sigsac.org/ccs/CCS2021/" target="_blank" style="text-decoration: none"><b>CCS</b> 2021</a>
                                  |<a href="https://eprint.iacr.org/2021/1159" target="_blank"> pdf</a> | <a href="https://github.com/osu-crypto/MiniPSI" target="_blank"> code </a> <br>
+				 
+<b>16. Private Join and Compute from PIR with Default </b> <br>
+	&nbsp; &nbsp; <a href="https://tlepoint.github.io/" style="color:blue; text-decoration: none"> Tancrède Lepoint</a>, <a href="https://dblp.uni-trier.de/pers/p/Patel:Sarvar.html" style="color:blue; text-decoration: none"> Sarvar Patel</a>, <a href="https://ai.google/research/people/106426/" style="color:blue; text-decoration: none"> Karn Seth</a>, <a href="https://marianapr.github.io/" style="color:blue; text-decoration: none"> Mariana Raykova</a>,  <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a> <br>		
+ &nbsp; &nbsp; <a href="https://asiacrypt.iacr.org/2021/" target="_blank" style="text-decoration: none"><b>Asiacrypt</b> 2021</a> | 
+                                    <a href="https://eprint.iacr.org/2020/1011" target="_blank"> pdf</a>  <br>
                                  
   <b> 15. Oblivious Key-Value Stores and Amplification for Private Set Intersection </b> <br>
    &nbsp; &nbsp; <a href="https://gayathrigarimella.github.io/" style="color:blue; text-decoration: none">Gayathri Garimella</a>,  <a href="http://www.pinkas.net/" style="color:blue; text-decoration: none"> Benny Pinkas</a>, 

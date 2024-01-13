@@ -9,6 +9,33 @@ author_profile: true
 <h2>Articles in refereed conferences </h2>  
  <h5>(Note: Authorship is in alphabetical order in most conference papers.) </h5>
  
+<b> 25. Multiparty Private Set Intersection Cardinality and Its Applications </b> <br>
+	&nbsp; &nbsp;  Jiahui Gao, Ni Trieu, Avishay Yanai <br>			
+ &nbsp; &nbsp; <a href="https://petsymposium.org/cfp24.php" target="_blank" style="text-decoration: none"><b>PETS</b> 2024</a> | 
+                                    <a href="https://eprint.iacr.org/2022/735" target="_blank"> pdf</a> 
+
+<b> 24. Delegated Private Matching for Compute </b> <br>
+	&nbsp; &nbsp; Dimitris Mouris, Daniel Masny, Ni Trieu, Shubho Sengupta, Prasad Buddhavarapu, Benjamin Case  <br>			
+ &nbsp; &nbsp; <a href="https://petsymposium.org/cfp24.php" target="_blank" style="text-decoration: none"><b>PETS</b> 2024</a> | 
+                                    <a href="https://eprint.iacr.org/2023/012" target="_blank"> pdf</a> 
+
+<b> 23. Privacy-Preserving Digital Vaccine Passport </b> <br>
+	&nbsp; &nbsp;Thai Duong, Jiahui Gao, Duong Hieu Phan, Ni Trieu  <br>			
+ &nbsp; &nbsp; <a href="https://www.augusta.edu/ccs/conferences/cans2023/" target="_blank" style="text-decoration: none"><b>CANS</b> 2023</a> | 
+                                    <a href="https://eprint.iacr.org/2023/012" target="_blank"> pdf</a> 
+
+
+<b> 22. Street Rep: A Privacy-Preserving Reputation Aggregation System </b> <br>
+	&nbsp; &nbsp; Christophe Hauser, Shirin Nilizadeh, Yan Shoshitaishvili, Ni Trieu, Srivatsan Ravi, Christopher Kruegel, Giovanni Vigna  <br>			
+ &nbsp; &nbsp; <a href="https://securecomm.eai-conferences.org/2023/" target="_blank" style="text-decoration: none"><b>EAI SecureComm </b> 2023</a> | 
+                                    <a href="https://eprint.iacr.org/2023/1346" target="_blank"> pdf</a> 
+
+
+<b> 21. Fast  ORAM  with Server-aided Preprocessing and Pragmatic Privacy-Efficiency Trade-off</b> <br>
+	&nbsp; &nbsp; Vladimir Kolesnikov, Stanislav Peceny, Ni Trieu, Xiao Wang <br>			
+ &nbsp; &nbsp; <a href="https://www.cscml.org/" target="_blank" style="text-decoration: none"><b>CSCML</b> 2023</a> | 
+                                    <a href="https://eprint.iacr.org/2023/991" target="_blank"> pdf</a> 
+
  
  <b> 20. MPCCache: Privacy-Preserving Multi-Party Cooperative Cache Sharing at the Edge </b> <br>
 	&nbsp; &nbsp; <a href="https://duongtungnguyen.github.io/" style="color:blue; text-decoration: none"> Duong Nguyen</a>,  <a href="http://people.oregonstate.edu/~trieun/" style="color:blue; text-decoration: none">Ni Trieu</a> <br>			

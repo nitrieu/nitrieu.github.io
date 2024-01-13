@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-<h2>Articles in refereed conferences </h2>  
  <h5>(Note: Authorship is in alphabetical order in most conference papers.) </h5>
  
 <b> 25. Multiparty Private Set Intersection Cardinality and Its Applications </b> <br>

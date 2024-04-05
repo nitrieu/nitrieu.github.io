@@ -7,6 +7,11 @@ author_profile: true
 
 
  <h5>(Note: Authorship is in alphabetical order in most conference papers.) </h5>
+
+ <b>  	AITIA: Efficient Secure Computation of Bivariate Causal Discovery </b> <br>
+	&nbsp; &nbsp;  	Truong Son Nguyen, Lun Wang, Evgenios M. Kornaropoulos, Ni Trieu <br>			
+ &nbsp; &nbsp; <a href="https://petsymposium.org/cfp24.php" target="_blank" style="text-decoration: none"><b>CCS</b> 2024</a> | 
+                                    <a href="https://eprint.iacr.org/2022/735" target="_blank"> pdf</a> 
  
 <b>  Multiparty Private Set Intersection Cardinality and Its Applications </b> <br>
 	&nbsp; &nbsp;  Jiahui Gao, Ni Trieu, Avishay Yanai <br>			

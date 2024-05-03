@@ -20,7 +20,7 @@ author_profile: true
 
 <h3> M.S. Student </h3>
   <ul>
-      <li> Yagaagowtham Palanikumar</li>
+      <li> Yagaagowtham Palanikumar,  graduated 2024 &rarr; Now @Apple</li>
     <li> Benjamin Rafalski,  graduated 2023 &rarr; Now @Intel</li>
   <li> <a href="https://chetan015.github.io/" style="color:blue; text-decoration: none"> Chetan Surana</a>,  graduated 2021 &rarr; Now @Amazon</li>
 </ul>

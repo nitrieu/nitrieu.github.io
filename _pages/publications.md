@@ -11,7 +11,7 @@ author_profile: true
   <b>  	Toward A Practical Multi-party Private Set Union </b> <br>
 	&nbsp; &nbsp;  	Jiahui Gao, Truong Son Nguyen, Ni Trieu <br>			
  &nbsp; &nbsp; <a href="https://petsymposium.org/cfp24.php" target="_blank" style="text-decoration: none"><b>PETS</b> 2024</a> | 
-                                    <a href="https://eprint.iacr.org/2022/735" target="_blank"> pdf</a> 
+                                    <a href="https://eprint.iacr.org/2023/1930" target="_blank"> pdf</a> 
 
  <b>  	AITIA: Efficient Secure Computation of Bivariate Causal Discovery </b> <br>
 	&nbsp; &nbsp;  	Truong Son Nguyen, Lun Wang, Evgenios M. Kornaropoulos, Ni Trieu <br>			

@@ -12,7 +12,6 @@ I am looking for motivated students to join my group. An ideal candidate should 
   <li><a href="https://cidse.engineering.asu.edu/graduate/" style="color:blue; text-decoration: none"> School of Computing, Informatics, and Decision Systems Engineering] </a></li>
    <li><a href="https://biodesign.asu.edu/Research/Centers/biocomputing-security-and-society" style="color:blue; text-decoration: none"> Biodesign Center for Biocomputing, Security and Society </a></li>
    <li><a href="https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/ESCSEIAPHD/graduate/false" style="color:blue; text-decoration: none"> Program Description: PhD Computer Science (Cybersecurity) </a></li>
-   <li><a href="https://cidse.engineering.asu.edu/graduate-admissions/" style="color:blue; text-decoration: none">Admission Requirements</a> (**GRE is optional**)</li>
 
 </ul>
 

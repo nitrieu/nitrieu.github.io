@@ -21,14 +21,3 @@ Before  joining  ASU,  I was a postdoc at <a href="https://berkeley.edu/" style=
 CCS</a>, <a href="https://crypto.iacr.org/2025" >
 CRYPTO</a> </li>
     </ul>
-  <!---    <li> Dec 2021: A paper on Privacy-preserving Cooperative Cache Sharing accepted to FC 2022.
-   <li>Sept 2021: A paper on Private Join-and-Compute accepted to Asiacrypt 2021. </li>
-  <li>Sept 2021: I'll be on the 2022 PC for <a href="https://www2022.thewebconf.org/" >
-WWW</a>. </li>
-<!--   <li>Jul 2021: Two papers accepted to CCS 2021</li>
-  <li>May 2021:  One paper accepted to CRYPTO 2021.</li>
-   <li>Apr 2021: I'll be on the 2022 PC for <a href="https://petsymposium.org/" > PETS</a>. </li>
-</ul>
-<!---    <li>Nov 2020: I'll be on the 2021 PCs for <a href="https://crypto.iacr.org/2021/" > CRYPTO</a>, <a href="https://www.sigsac.org/ccs/CCS2021/program-committee.html" > CCS</a>, and <a href="https://data61dsslab.github.io/acisp2021/" >
-ACISP</a>.    </li>
-  <li>Sept 2020: Another paper on Contact Tracing accepted to Asiacrypt. </li> --->

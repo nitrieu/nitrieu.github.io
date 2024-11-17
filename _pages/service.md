@@ -11,9 +11,10 @@ author_profile: true
    </ul>
 <h3> Conference Program Committee </h3>
   <ul>
-   <li> International Cryptology Conference (CRYPTO), 2021, 2022 </li>
-  <li>ACM Conference on Computer and Communications Security (CCS) 2021, 2022</li>
-    <li> Privacy Enhancing Technologies Symposium (PETS), 2022, 2023 </li>
+   <li> International Cryptology Conference (CRYPTO), 2021, 2022, 2025 </li>
+  <li>ACM Conference on Computer and Communications Security (CCS) 2021, 2022, 2025 </li>
+    <li>  IEEE European Symposium on Security and Privacy, 2025 </li>
+    <li> Privacy Enhancing Technologies Symposium (PETS), 2022, 2023, 2024 </li>
    <li> The Web Conference (WWW) 2021, 2022</li>
   <li> European Symposium on Research in Computer Security (ESORICS) 2022 </li>
   <li>Australasian Conference on Information Security and Privacy (ACISP) 2021</li>

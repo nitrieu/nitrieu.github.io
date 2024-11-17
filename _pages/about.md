@@ -14,17 +14,18 @@ Before  joining  ASU,  I was a postdoc at <a href="https://berkeley.edu/" style=
 
 <!-- I am looking for motivated students of all levels to join my group! If you are interested, please click  <a href="https://nitrieu.github.io/position" style="color:blue; text-decoration: none"><b>here</b></a> for more information.  -->
 
-<!-- 
+
 <h3> NEWS </h3>
   <ul>
-   <li> Jan 2022: I'll be on the 2022 PC for <a href="https://www.sigsac.org/ccs/CCS2022/call-for-papers.html" >
-CCS</a>, <a href="https://crypto.iacr.org/2022" >
+   <li> Oct 2024: I'll be on the 2025 PC for <a href="https://www.sigsac.org/ccs/CCS2025/call-for-papers.html" >
+CCS</a>, <a href="https://crypto.iacr.org/2025" >
 CRYPTO</a> </li>
-   <li> Dec 2021: A paper on Privacy-preserving Cooperative Cache Sharing accepted to FC 2022.
+    </ul>
+  <!---    <li> Dec 2021: A paper on Privacy-preserving Cooperative Cache Sharing accepted to FC 2022.
    <li>Sept 2021: A paper on Private Join-and-Compute accepted to Asiacrypt 2021. </li>
   <li>Sept 2021: I'll be on the 2022 PC for <a href="https://www2022.thewebconf.org/" >
 WWW</a>. </li>
-  <li>Jul 2021: Two papers accepted to CCS 2021</li>
+<!--   <li>Jul 2021: Two papers accepted to CCS 2021</li>
   <li>May 2021:  One paper accepted to CRYPTO 2021.</li>
    <li>Apr 2021: I'll be on the 2022 PC for <a href="https://petsymposium.org/" > PETS</a>. </li>
 </ul>

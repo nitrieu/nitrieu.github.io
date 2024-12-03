@@ -1,7 +1,9 @@
 ---
 title: "CSE 539, Applied Cryptography"
-collection: teaching
-permalink: /teaching/cse539
+layout: archive
+title: "Advising"
+permalink: /cse539
+author_profile: true
 ---
 
 <h3>  Slides </h3>

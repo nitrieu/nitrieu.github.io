@@ -17,6 +17,8 @@ Before  joining  ASU,  I was a postdoc at <a href="https://berkeley.edu/" style=
 
 <h3> NEWS </h3>
   <ul>
+      <li> March 2024: Two papers accepted to PETS, and one accepted to Euro S&P</li>
+    
    <li> Oct 2024: I'll be on the 2025 PC for <a href="https://www.sigsac.org/ccs/CCS2025/call-for-papers.html" >
 CCS</a>, <a href="https://crypto.iacr.org/2025" >
 CRYPTO</a> </li>

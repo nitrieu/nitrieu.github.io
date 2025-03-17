@@ -15,9 +15,9 @@ Before  joining  ASU,  I was a postdoc at <a href="https://berkeley.edu/" style=
 <!-- I am looking for motivated students of all levels to join my group! If you are interested, please click  <a href="https://nitrieu.github.io/position" style="color:blue; text-decoration: none"><b>here</b></a> for more information.  -->
 
 
-<h3> NEWS </h3>
-  <ul>
-     <li> March 2025: HADES paper accepted to <a href="https://vldb.org/2025/"> VLDB <a/>.</li>
-      <li> Febrary 2025: Two papers accepted to <a href="https://petsymposium.org/popets/2025/"> PETS <a/>, and one accepted to <a href="https://eurosp2025.ieee-security.org/">Euro S&P <a/>.</li>    
-   <li> Oct 2024: I'll be on the 2025 PC for <a href="https://www.sigsac.org/ccs/CCS2025/call-for-papers.html"> CCS</a> and <a href="https://crypto.iacr.org/2025" >CRYPTO</a> </li>
-    </ul>
+<h3>NEWS</h3>
+<ul>
+    <li>March 2025: HADES paper accepted to <a href="https://vldb.org/2025/">VLDB</a>.</li>
+    <li>February 2025: Two papers accepted to <a href="https://petsymposium.org/popets/2025/">PETS</a>, and one accepted to <a href="https://eurosp2025.ieee-security.org/">Euro S&P</a>.</li>    
+    <li>October 2024: I'll be on the 2025 PC for <a href="https://www.sigsac.org/ccs/CCS2025/call-for-papers.html">CCS</a> and <a href="https://crypto.iacr.org/2025">CRYPTO</a>.</li>
+</ul>

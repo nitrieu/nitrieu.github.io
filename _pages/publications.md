@@ -6,17 +6,39 @@ author_profile: true
 ---
 
 
- <h5>(Note: Authorship is in alphabetical order in most conference papers.) </h5>
+<!--<h5>(Note: Authorship is in alphabetical order in most conference papers.) </h5> -->
+
+ <b>  	HADES: Range-Filtered Private Aggregation on Public Data </b> <br>
+	&nbsp; &nbsp;  	Xiaoyuan Liu, Ni Trieu, Trinabh Gupta, Ishtiyaque Ahmad, Dawn Song <br>			
+ &nbsp; &nbsp; <a href="https://vldb.org/2025/" target="_blank" style="text-decoration: none"><b>VLDB</b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2024/1699.pdf" target="_blank"> pdf</a> 
+
+<b>  	Mario: Multi-round Multiple-Aggregator Secure Aggregation with Robustness against Malicious Actors </b> <br>
+	&nbsp; &nbsp;  	Truong Son Nguyen, Tancrède Lepoint, Ni Trieu <br>			
+ &nbsp; &nbsp; <a href="https://eurosp2025.ieee-security.org/" target="_blank" style="text-decoration: none"><b>EuroS&P</b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2024/1428.pdf" target="_blank"> pdf</a> 	
+
+<b>  	Achieving Data Reconstruction Hardness and Efficient Computation in Multiparty Minimax Training </b> <br>
+	&nbsp; &nbsp;  	Truong Son Nguyen, Yi Ren, Guangyu Nie, Ni Trieu <br>			
+ &nbsp; &nbsp; <a href="https://petsymposium.org/cfp25.php" target="_blank" style="text-decoration: none"><b>PETS</b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2025/460.pdf" target="_blank"> pdf</a> 
+
+<b>  	SecurED: Secure Multiparty Edit Distance for Genomic Sequences </b> <br>
+	&nbsp; &nbsp;  	Jiahui Gao, Yagaagowtham Palanikuma, Dimitris Mouris, Duong Tung Nguyen, Ni Trieu <br>			
+ &nbsp; &nbsp; <a href="https://petsymposium.org/cfp25.php" target="_blank" style="text-decoration: none"><b>PETS</b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2025/500.pdf" target="_blank"> pdf</a> 
+
+ <b>  	AITIA: Efficient Secure Computation of Bivariate Causal Discovery </b> <br>
+	&nbsp; &nbsp;  	Truong Son Nguyen, Lun Wang, Evgenios M. Kornaropoulos, Ni Trieu <br>			
+ &nbsp; &nbsp; <a href="https://petsymposium.org/cfp24.php" target="_blank" style="text-decoration: none"><b>CCS</b> 2024</a> | 
+                                    <a href="https://eprint.iacr.org/2022/735" target="_blank"> pdf</a> 
 
   <b>  	Toward A Practical Multi-party Private Set Union </b> <br>
 	&nbsp; &nbsp;  	Jiahui Gao, Truong Son Nguyen, Ni Trieu <br>			
  &nbsp; &nbsp; <a href="https://petsymposium.org/cfp24.php" target="_blank" style="text-decoration: none"><b>PETS</b> 2024</a> | 
                                     <a href="https://eprint.iacr.org/2023/1930" target="_blank"> pdf</a> 
 
- <b>  	AITIA: Efficient Secure Computation of Bivariate Causal Discovery </b> <br>
-	&nbsp; &nbsp;  	Truong Son Nguyen, Lun Wang, Evgenios M. Kornaropoulos, Ni Trieu <br>			
- &nbsp; &nbsp; <a href="https://petsymposium.org/cfp24.php" target="_blank" style="text-decoration: none"><b>CCS</b> 2024</a> | 
-                                    <a href="https://eprint.iacr.org/2022/735" target="_blank"> pdf</a> 
+
  
 <b>  Multiparty Private Set Intersection Cardinality and Its Applications </b> <br>
 	&nbsp; &nbsp;  Jiahui Gao, Ni Trieu, Avishay Yanai <br>			

@@ -8,10 +8,15 @@ author_profile: true
 
 <!--<h5>(Note: Authorship is in alphabetical order in most conference papers.) </h5> -->
 
+ <b>  	Distance-Aware OT with Application to Fuzzy PSI </b> <br>
+	&nbsp; &nbsp;  	Lucas Piske, Jaspal Singh, Ni Trieu, Vladimir Kolesnikov, Vassilis Zikas <br>			
+ &nbsp; &nbsp; <a href="https://www.sigsac.org/ccs/CCS2025/" target="_blank" style="text-decoration: none"><b>CCS</b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a> 
+
  <b>  	HADES: Range-Filtered Private Aggregation on Public Data </b> <br>
 	&nbsp; &nbsp;  	Xiaoyuan Liu, Ni Trieu, Trinabh Gupta, Ishtiyaque Ahmad, Dawn Song <br>			
  &nbsp; &nbsp; <a href="https://vldb.org/2025/" target="_blank" style="text-decoration: none"><b>VLDB</b> 2025</a> | 
-                                    <a href="https://eprint.iacr.org/2024/1699.pdf" target="_blank"> pdf</a> 
+                                    <a href="https://eprint.iacr.org/2024/1699.pdf" target="_blank"> pdf</a> 	
 
 <b>  	Mario: Multi-round Multiple-Aggregator Secure Aggregation with Robustness against Malicious Actors </b> <br>
 	&nbsp; &nbsp;  	Truong Son Nguyen, Tancrède Lepoint, Ni Trieu <br>			

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<!--<h5>(Note: Authorship is in alphabetical order in most conference papers.) </h5> -->
+
 
  <b>  	Threshold FHE with Efficient Asynchronous Decryption </b> <br>
 	&nbsp; &nbsp;  Zvika Brakerski, Offir Friedman, Avichai Marmor, Dolev Mutzari, Yuval Spiizer, Ni Trieu <br>			
@@ -15,8 +15,13 @@ author_profile: true
 				    
  <b>  	PULSE: Parallel Private Set Union for Large-Scale Entities </b> <br>
 	&nbsp; &nbsp;  	Jiahui Gao, Son Nguyen, Marina Blanton, Ni Trieu <br>			
- &nbsp; &nbsp; <a href="https://eprint.iacr.org/2025/790.pdf" target="_blank" style="text-decoration: none"><b>ePrint</b> 2025</a> | 
+ &nbsp; &nbsp; <a href="https://eprint.iacr.org/2025/790.pdf" target="_blank" style="text-decoration: none"><b>CCS</b> 2025</a> | 
                                     <a href="https://eprint.iacr.org/2025/790.pdf" target="_blank"> pdf</a> 
+
+<b>  	Shared OT and Its Applications </b> <br>
+	&nbsp; &nbsp;  	Lucas Piske, Jeroen van de Graaf, Anderson C. A. Nascimento, Ni Trieu <br>			
+ &nbsp; &nbsp; <a href="https://cic.iacr.org/" target="_blank" style="text-decoration: none"><b> CiC </b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2024/963" target="_blank"> pdf</a> 
 
  <b>  	Distance-Aware OT with Application to Fuzzy PSI </b> <br>
 	&nbsp; &nbsp;  	Lucas Piske, Jaspal Singh, Ni Trieu, Vladimir Kolesnikov, Vassilis Zikas <br>			

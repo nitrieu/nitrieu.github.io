@@ -5,13 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+ <b>  	Is PSI Really Faster Than PSU? Achieving Efficient PSU with Invertible Bloom Filters </b> <br>
+	&nbsp; &nbsp;  Lucas Piske, Ni Trieu<br>			
+ &nbsp; &nbsp; <a href="https://eurocrypt.iacr.org/2026/" target="_blank" style="text-decoration: none"><b>EUROCRYPT</b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a>
 
 
-
- <b>  	Threshold FHE with Efficient Asynchronous Decryption </b> <br>
-	&nbsp; &nbsp;  Zvika Brakerski, Offir Friedman, Avichai Marmor, Dolev Mutzari, Yuval Spiizer, Ni Trieu <br>			
- &nbsp; &nbsp; <a href="https://eprint.iacr.org/2025/712.pdf" target="_blank" style="text-decoration: none"><b>ePrint</b> 2025</a> | 
-                                    <a href="https://eprint.iacr.org/2025/712.pdf" target="_blank"> pdf</a> 
+ <b>  	Malicious Private Set Union with Two-Sided Output </b> <br>
+	&nbsp; &nbsp;  Sihang Pu, Jiahui Gao, Ni Trieu<br>			
+ &nbsp; &nbsp; <a href="https://eurocrypt.iacr.org/2026/" target="_blank" style="text-decoration: none"><b>EUROCRYPT</b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a> 
 				    
  <b>  	PULSE: Parallel Private Set Union for Large-Scale Entities </b> <br>
 	&nbsp; &nbsp;  	Jiahui Gao, Truong Son Nguyen, Marina Blanton, Ni Trieu <br>			

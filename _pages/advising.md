@@ -28,8 +28,8 @@ author_profile: true
 
 <h3> M.S. Students </h3>
   <ul>
-      <li> <a href="https://www.linkedin.com/in/yagaagowtham/" style="color:blue; text-decoration: none">  Yagaagowtham Palanikumar </a>,  graduated 2024 &rarr; Now @Apple</li>
-        <li> <a href="https://www.aditya-shrivastava.com/" style="color:blue; text-decoration: none">  Aditya Shrivastava </a>,  graduated 2024 &rarr; Now @Capital One</li>
+      <li> <a href="https://www.linkedin.com/in/yagaagowtham/" style="color:blue; text-decoration: none">  Yagaagowtham Palanikumar</a>,  graduated 2024 &rarr; Now @Apple</li>
+        <li> <a href="https://www.aditya-shrivastava.com/" style="color:blue; text-decoration: none">  Aditya Shrivastava</a>,  graduated 2024 &rarr; Now @Capital One</li>
     <li> <a href="https://www.linkedin.com/in/benjamin-rafalski-719b21206/" style="color:blue; text-decoration: none">  Benjamin Rafalski</a>,  graduated 2023 &rarr; Now @Intel</li>
   <li> <a href="https://chetan015.github.io/" style="color:blue; text-decoration: none"> Chetan Surana</a>,  graduated 2021 &rarr; Now @Amazon</li>
 </ul>
@@ -45,9 +45,9 @@ author_profile: true
 </ul>
 
 <h3>High-School Students (Research)</h3>
-<ul>
-  <li>Jason Gounder, BASIS Phoenix High School, 2021</li>
+<ul> 
   <li>Savion Goslee, BASIS Phoenix High School, 2024</li>
   <li>Siddharth Patil, BASIS Chandler High School, 2024</li>
+   <li>Jason Gounder, BASIS Phoenix High School, 2021</li>
 </ul>
 

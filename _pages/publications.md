@@ -21,15 +21,16 @@ author_profile: true
  &nbsp; &nbsp; <a href="https://eprint.iacr.org/2025/790.pdf" target="_blank" style="text-decoration: none"><b>CCS</b> 2025</a> | 
                                     <a href="https://eprint.iacr.org/2025/790.pdf" target="_blank"> pdf</a> 
 
-<b>  	Shared OT and Its Applications </b> <br>
-	&nbsp; &nbsp;  	Lucas Piske, Jeroen van de Graaf, Anderson C. A. Nascimento, Ni Trieu <br>			
- &nbsp; &nbsp; <a href="https://cic.iacr.org/" target="_blank" style="text-decoration: none"><b> CiC </b> 2025</a> | 
-                                    <a href="https://eprint.iacr.org/2024/963" target="_blank"> pdf</a> 
-
  <b>  	Distance-Aware OT with Application to Fuzzy PSI </b> <br>
 	&nbsp; &nbsp;  	Lucas Piske, Jaspal Singh, Ni Trieu, Vladimir Kolesnikov, Vassilis Zikas <br>			
  &nbsp; &nbsp; <a href="https://www.sigsac.org/ccs/CCS2025/" target="_blank" style="text-decoration: none"><b>CCS</b> 2025</a> | 
                                     <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a> 
+
+									
+<b>  	Shared OT and Its Applications </b> <br>
+	&nbsp; &nbsp;  	Lucas Piske, Jeroen van de Graaf, Anderson C. A. Nascimento, Ni Trieu <br>			
+ &nbsp; &nbsp; <a href="https://cic.iacr.org/" target="_blank" style="text-decoration: none"><b> CiC </b> 2025</a> | 
+                                    <a href="https://eprint.iacr.org/2024/963" target="_blank"> pdf</a> 
 
  <b>  	HADES: Range-Filtered Private Aggregation on Public Data </b> <br>
 	&nbsp; &nbsp;  	Xiaoyuan Liu, Ni Trieu, Trinabh Gupta, Ishtiyaque Ahmad, Dawn Song <br>			

@@ -8,12 +8,14 @@ author_profile: true
 
 <h3> Ph.D. Students </h3>
   <ul>
+     <li>Lucas Piske, M.Sc. @Federal University of Minas Gerais, Brazil 
+          <li> <a href="https://sonnguyenasu.github.io/" style="color:blue; text-decoration: none"> Son Nguyen</a>, B.S. @Tokyo Institute of Technology, Japan 
+ </li>
     <li> <a href="https://manazirahsan.wixsite.com/self" style="color:blue; text-decoration: none">Manazir Ahsan</a>,  M.Sc. @Utah State University 
   </li>
   
-   <li> <a href="https://sonnguyenasu.github.io/" style="color:blue; text-decoration: none"> Son Nguyen</a>, B.S. @Tokyo Institute of Technology, Japan 
- </li>
- <li>Lucas Piske, M.Sc. @Federal University of Minas Gerais, Brazil 
+
+
 
   <li>Jiahui Gao, graduated 2025 &rarr; Now @Huawei</li>
 </ul>

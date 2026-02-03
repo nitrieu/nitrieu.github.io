@@ -17,7 +17,7 @@ Before  joining  ASU,  I was a postdoc at <a href="https://berkeley.edu/" style=
 
 <h3>NEWS</h3>
 <ul>
-   <li>January 2026: Two PSU papers accepted to <a href="https://eurocrypt.iacr.org/2026/">EUROCRYPT</a>
+    <li>January 2026: Two PSU papers — one accepted and one conditionally accepted to  <a href="https://eurocrypt.iacr.org/2026/">EUROCRYPT</a></li>
     <li>December 2025: I'll be on the 2026 PC for <a href="https://www.sigsac.org/ccs/CCS2026/call-for-papers.html">CCS</a> and <a href="https://crypto.iacr.org/2026">CRYPTO</a>.</li>
   <li> August/September 2025: Busy months— talks at the <a href="https://simons.berkeley.edu/workshops/secure-computation-0">Simons</a>, <a href="https://viasm.edu.vn/hdkh/YCF2025">VIASM</a>, and <a href="https://csrc.nist.gov/projects/pec/stppa">NIST</a>; serving on the <a href="[https://simons.berkeley.edu/workshops/secure-computation-0](https://www.usenix.org/conference/usenixsecurity26)">USENIX</a> PC and joining an <a href="https://www.research.gov/research-web/">NSF</a> panel review  </li>
   <li>July 2025: A PSU paper accepted to <a href="https://www.sigsac.org/ccs/CCS2025/">CCS</a>;  and another paper on Shared OT accepted to <a href="https://cic.iacr.org/">CiC</a>.</li>

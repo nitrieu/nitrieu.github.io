@@ -10,12 +10,12 @@ author_profile: true
  &nbsp; &nbsp; <a href="https://eurocrypt.iacr.org/2026/" target="_blank" style="text-decoration: none"><b>EUROCRYPT</b> 2026</a> | 
                                     <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a>
 
-<!--
+
  <b>  	Malicious Private Set Union with Two-Sided Output </b> <br>
 	&nbsp; &nbsp;  Sihang Pu, Jiahui Gao, Ni Trieu<br>			
  &nbsp; &nbsp; <a href="https://eurocrypt.iacr.org/2026/" target="_blank" style="text-decoration: none"><b>EUROCRYPT</b> 2026</a> | 
                                     <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a> 
--->
+
 				    
  <b>  	PULSE: Parallel Private Set Union for Large-Scale Entities </b> <br>
 	&nbsp; &nbsp;  	Jiahui Gao, Truong Son Nguyen, Marina Blanton, Ni Trieu <br>			

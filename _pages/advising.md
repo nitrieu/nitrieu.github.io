@@ -13,10 +13,7 @@ author_profile: true
  </li>
     <li> <a href="https://manazirahsan.wixsite.com/self" style="color:blue; text-decoration: none">Manazir Ahsan</a>,  M.Sc. @Utah State University 
   </li>
-  
-
-
-
+    
   <li>Jiahui Gao, graduated 2025 &rarr; Now @Huawei</li>
 </ul>
 

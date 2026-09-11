@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+ <b>  	Post-Quantum Private Set Intersection for Small Sets </b> <br>
+	&nbsp; &nbsp;  Junxin Liu, Mike Rosulek, Ni Trieu<br>			
+ &nbsp; &nbsp;  <a href="https://www.sigsac.org/ccs/CCS2026/" target="_blank" style="text-decoration: none"><b>CCS</b> 2026</a> | 
+                                    <a href="https://eprint.iacr.org/2026" target="_blank"> pdf</a> 
+									
  <b>  	Is PSI Really Faster Than PSU? Achieving Efficient PSU with Invertible Bloom Filters </b> <br>
 	&nbsp; &nbsp;  Lucas Piske, Ni Trieu<br>			
  &nbsp; &nbsp; <a href="https://eurocrypt.iacr.org/2026/" target="_blank" style="text-decoration: none"><b>EUROCRYPT</b> 2026</a> | 

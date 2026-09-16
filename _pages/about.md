@@ -17,7 +17,7 @@ Before  joining  ASU,  I was a postdoc at <a href="https://berkeley.edu/" style=
 
 <h3>NEWS</h3>
 <ul>
-<li>Sept 2026: Our PQ-PSI paper was accepted to <a href="https://www.sigsac.org/ccs/CCS2026/">CCS</a>, following our small-set PSI paper from five years ago. Time flies!</li>
+<li>Sept. 2026: Our paper on Fuzzy PIR was accepted to  <a href="https://sp2027.ieee-security.org/">S&P</a>. Our PQ-PSI paper was accepted to <a href="https://www.sigsac.org/ccs/CCS2026/">CCS</a>, following our small-set PSI paper from five years ago (time flies)!</li>
   <li>August 2026: I'll be on the 2027 PC for <a href="https://eurocrypt.iacr.org/2027/">Eurocrypt</a>
     <li>March 2026: Received an Amazon Research Award.</li>
     <li>January 2026: Two PSU papers accepted to  <a href="https://eurocrypt.iacr.org/2026/">EUROCRYPT</a></li>

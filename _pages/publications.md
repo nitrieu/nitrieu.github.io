@@ -4,21 +4,26 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>  	Fuzzy Private Information Retrieval via Improved Function Secret Sharing </b> <br>
+	&nbsp; &nbsp;  Lucas Piske*, Jaspal Singh*, Sankha Das, Ni Trieu, Vassilis Zikas<br>			
+ &nbsp; &nbsp;  <a href="https://sp2027.ieee-security.org/" target="_blank" style="text-decoration: none"><b>S&P</b> 2027</a> | 
+                                    <a href="https://eprint.iacr.org/2026" target="_blank"> pdf</a> 
+									
  <b>  	Post-Quantum Private Set Intersection for Small Sets </b> <br>
 	&nbsp; &nbsp;  Junxin Liu, Mike Rosulek, Ni Trieu<br>			
  &nbsp; &nbsp;  <a href="https://www.sigsac.org/ccs/CCS2026/" target="_blank" style="text-decoration: none"><b>CCS</b> 2026</a> | 
-                                    <a href="https://eprint.iacr.org/2026" target="_blank"> pdf</a> 
+                                    <a href="https://eprint.iacr.org/2026/1985" target="_blank"> pdf</a> 
 									
  <b>  	Is PSI Really Faster Than PSU? Achieving Efficient PSU with Invertible Bloom Filters </b> <br>
 	&nbsp; &nbsp;  Lucas Piske, Ni Trieu<br>			
  &nbsp; &nbsp; <a href="https://eurocrypt.iacr.org/2026/" target="_blank" style="text-decoration: none"><b>EUROCRYPT</b> 2026</a> | 
-                                    <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a>
+                                    <a href="https://eprint.iacr.org/2026/376" target="_blank"> pdf</a>
 
 
  <b>  	Malicious Private Set Union with Two-Sided Output </b> <br>
 	&nbsp; &nbsp;  Sihang Pu, Jiahui Gao, Ni Trieu<br>			
  &nbsp; &nbsp; <a href="https://eurocrypt.iacr.org/2026/" target="_blank" style="text-decoration: none"><b>EUROCRYPT</b> 2026</a> | 
-                                    <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a> 
+                                    <a href="https://eprint.iacr.org/2026/204" target="_blank"> pdf</a> 
 
 				    
  <b>  	PULSE: Parallel Private Set Union for Large-Scale Entities </b> <br>
@@ -29,7 +34,7 @@ author_profile: true
  <b>  	Distance-Aware OT with Application to Fuzzy PSI </b> <br>
 	&nbsp; &nbsp;  	Lucas Piske, Jaspal Singh, Ni Trieu, Vladimir Kolesnikov, Vassilis Zikas <br>			
  &nbsp; &nbsp; <a href="https://www.sigsac.org/ccs/CCS2025/" target="_blank" style="text-decoration: none"><b>CCS</b> 2025</a> | 
-                                    <a href="https://eprint.iacr.org/2025" target="_blank"> pdf</a> 
+                                    <a href="https://eprint.iacr.org/2025/996" target="_blank"> pdf</a> 
 
 									
 <b>  	Shared OT and Its Applications </b> <br>

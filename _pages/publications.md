@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>  	Fuzzy Private Information Retrieval via Improved Function Secret Sharing </b> <br>
-	&nbsp; &nbsp;  Lucas Piske*, Jaspal Singh*, Sankha Das, Ni Trieu, Vassilis Zikas<br>			
+	&nbsp; &nbsp;  Lucas Piske*, Jaspal Singh*, Sankha Das, Ni Trieu, Vassilis Zikas (* equal contribution)<br>			
  &nbsp; &nbsp;  <a href="https://sp2027.ieee-security.org/" target="_blank" style="text-decoration: none"><b>S&P</b> 2027</a> | 
                                     <a href="https://eprint.iacr.org/2026" target="_blank"> pdf</a> 
 									
